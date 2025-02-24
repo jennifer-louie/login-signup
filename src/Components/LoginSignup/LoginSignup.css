@@ -2,9 +2,8 @@
     display: flex;
     flex-direction: column;
     margin: auto;
-    margin-top: 200px;
+    margin-top: 50px;
     background: #fff;
-    padding-bottom: 30px;
     width: 600px;
 }
 .header {
@@ -80,4 +79,8 @@
     font-size: 19px;
     font-weight: 700;
     cursor: pointer;
+}
+.gray {
+    background: #eaeaea;
+    color: #676767;
 }
