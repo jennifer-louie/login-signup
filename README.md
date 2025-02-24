@@ -1,1 +1,1 @@
-Sign In and Sign Up form using React JS, HTML and CSS
+Login and Sign Up form using React JS, HTML and CSS
